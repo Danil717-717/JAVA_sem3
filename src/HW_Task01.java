@@ -11,9 +11,9 @@ public class HW_Task01 {
         LinkedList<Integer> numbers = new LinkedList<>();
 
 
-        numbers.add(36565563);
+        numbers.add(36565);
         numbers.add(45682);
-        numbers.add(45678925);
+        numbers.add(45678);
         numbers.add(875442);
         numbers.add(34364676);
 
